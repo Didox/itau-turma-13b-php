@@ -7,6 +7,6 @@
   <br><br>
   Vai corinthians
   <br><br>
-  Vem vacina!
+  Vem vacina! (Graças a Deus!!!)
 </body>
 </html>
