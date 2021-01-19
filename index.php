@@ -22,6 +22,13 @@ body, html {
   background-size: cover;
 }
 
+<? 
+$i = 0;
+$c = $i / 100;
+
+echo $c;
+?>
+
 /* First image (Logo. Full height) */
 .bgimg-1 {
   background-image: url('https://www.w3schools.com/w3images/parallax1.jpg');
